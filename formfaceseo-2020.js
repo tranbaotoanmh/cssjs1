@@ -111,7 +111,7 @@ jQuery(divpopup).attr('id', 'myModalthanh');
 jQuery(divpopup).attr('class', 'thanhfaceseo-modal');
 jQuery( "body" ).append(divpopup);
 var titleform='Đăng ký Form';
-var urlform="https://docs.google.com/forms/u/0/d/e/1FAIpQLSfyZjqYkeXv4oW8FZDmNZq_QxoJ-uLenK9bp6WstPzXSi1_AA/formResponse";
+var urlform="https://docs.google.com/forms/d/e/1FAIpQLSfyZjqYkeXv4oW8FZDmNZq_QxoJ-uLenK9bp6WstPzXSi1_AA/viewform";
 var urlchuyen=window.location.href;
 var hovaten="366016665";
 var dienthoai="2125970163";
